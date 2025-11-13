@@ -1,7 +1,7 @@
 {
-  "name": "Shaman2016-proxy",
+  "name": "vercel-proxy",
   "version": "1.0.0",
   "devDependencies": {
-    "@vercel/edge": "^1.0.0"
+    "@vercel/edge": "^1.6.0"
   }
 }
