@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "devDependencies": {
     "@vercel/edge": "^1.6.0"
-  }
+  },
+  "engines": {
+    "node": "18.x"
+  },
 }
