@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "api/proxy.js",
-      "use": "@vercel/edge@1.8.0"
+      "use": "@vercel/edge@1.2.2"
     }
   ]
 }
