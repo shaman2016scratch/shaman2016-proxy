@@ -3,16 +3,13 @@ export const config = { runtime: 'edge' };
 const WHITELISTED_DOMAINS = [
   'jsonplaceholder.typicode.com',
   'httpbin.org',
-  'api.github.com',
   'scratch.mit.edu',
-  'api.scratch.mit.edu',
   'shaman2016scratch.github.io',
   'dashblocks.github.io',
   'turbowarp.org',
-  'mirror.turbowarp.xyz',
+  'turbowarp.xyz',
   'github.com',
   'telegram.org',
-  'api.telegram.org',
   'penguinmod.com',
 ];
 
