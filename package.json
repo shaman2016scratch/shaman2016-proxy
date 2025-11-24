@@ -1,7 +1,9 @@
 {
   "name": "shaman2016-proxy",
   "version": "1.0.0",
-  "devDependencies": {},
+  "devDependencies": {
+    "@vercel/edge": "^1.12.0"
+  },
   "engines": {
     "node": "22.x"
   }
