@@ -31,7 +31,7 @@ export default async function handler(req) {
   }
 
   try {
-    new URL(targetUrl);
+    new URL(`targetUrl`);
   } catch (e) {
     return new Response(JSON.stringify({ error: 'Invalid URL format' }), {
       status: 400,
