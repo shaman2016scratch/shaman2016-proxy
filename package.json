@@ -5,6 +5,6 @@
     "@vercel/edge": "1.2.2"
   },
   "engines": {
-    "node": "22.x"
+    "node": "21.0"
   }
 }
