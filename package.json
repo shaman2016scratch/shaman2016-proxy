@@ -2,6 +2,6 @@
   "name": "shaman2016-proxy",
   "version": "1.0.0",
   "devDependencies": {
-    "@vercel/node": "5.5.20"
+    "@vercel/node": "5.5.26"
   }
 }
